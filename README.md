@@ -95,7 +95,3 @@ Feel free to include:
 Pull requests, suggestions, and issues are always welcome!
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
