@@ -79,18 +79,3 @@ The goal is to classify news articles into one of two categories based on their 
 This project demonstrates how transformer-based models like **BERT** outperform classical models in terms of accuracy for text classification. However, **SVM** achieved the highest precision, recall, and F1-score among traditional models — proving to be a strong, lightweight alternative.
 
 ---
-
-## 📷 Sample Output
-
-Feel free to include:
-- Confusion matrix plots  
-- Bar charts comparing model metrics  
-- Training logs or screenshots  
-
----
-
-## 🤝 Contributions
-
-Pull requests, suggestions, and issues are always welcome!
-
----
