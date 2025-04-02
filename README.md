@@ -43,7 +43,6 @@ The goal is to classify news articles into one of two categories based on their 
 1. **Data Loading & Cleaning**
    - Loaded 20 Newsgroups dataset from `sklearn.datasets`.
    - Filtered two categories: `rec.sport.hockey` and `sci.space`.
-   - Removed headers, footers, and quotes for cleaner text.
 
 2. **TF-IDF Vectorization**
    - Converted text data into numerical format using `TfidfVectorizer` with a 5,000-word vocabulary.
